@@ -176,7 +176,7 @@ const PORTFOLIO_CONTENT: Record<'ru' | 'en', PortfolioContent> = {
       groups: [
         {
           group: 'Frontend',
-          items: ['React', 'Angular', 'Next.js', 'TypeScript', 'JavaScript', 'RxJS', 'Redux', 'Zustand']
+          items: ['React', 'Angular', 'Next.js', 'TypeScript', 'JavaScript', 'SCSS', 'Tailwind CSS', 'Figma', 'RxJS', 'Redux', 'Zustand']
         },
         {
           group: 'Backend',
@@ -305,7 +305,7 @@ const PORTFOLIO_CONTENT: Record<'ru' | 'en', PortfolioContent> = {
       groups: [
         {
           group: 'Frontend',
-          items: ['React', 'Angular', 'Next.js', 'TypeScript', 'JavaScript', 'RxJS', 'Redux', 'Zustand']
+          items: ['React', 'Angular', 'Next.js', 'TypeScript', 'JavaScript', 'SCSS', 'Tailwind CSS', 'Figma', 'RxJS', 'Redux', 'Zustand']
         },
         {
           group: 'Backend',
@@ -337,6 +337,8 @@ export class App {
   protected readonly sections = computed(() => this.data().sections);
   protected readonly year = new Date().getFullYear();
 }
+
+
 
 
 
