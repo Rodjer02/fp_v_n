@@ -72,7 +72,7 @@ const PORTFOLIO_CONTENT: Record<'ru' | 'en', PortfolioContent> = {
       role: 'Middle Software Engineer / Frontend Developer',
       location: 'Kazakhstan',
       availability: 'Доступен: remote / hybrid / office',
-      heroLabel: 'Angular Portfolio 2026',
+      heroLabel: 'Portfolio 2026',
       github: 'https://github.com/Rodjer02'
     },
     sections: {
