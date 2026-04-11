@@ -180,7 +180,7 @@ const PORTFOLIO_CONTENT: Record<'ru' | 'en', PortfolioContent> = {
         },
         {
           group: 'Backend',
-          items: ['Java', 'Spring Boot (17-21)', 'REST API', 'PostgreSQL']
+          items: ['Java', 'Spring Boot (17-21)', 'REST API', 'PostgreSQL', 'Docker', 'Swagger', 'Postman']
         },
         {
           group: 'Core',
@@ -309,7 +309,7 @@ const PORTFOLIO_CONTENT: Record<'ru' | 'en', PortfolioContent> = {
         },
         {
           group: 'Backend',
-          items: ['Java', 'Spring Boot (17-21)', 'REST API', 'PostgreSQL']
+          items: ['Java', 'Spring Boot (17-21)', 'REST API', 'PostgreSQL', 'Docker', 'Swagger', 'Postman']
         },
         {
           group: 'Core',
@@ -337,5 +337,6 @@ export class App {
   protected readonly sections = computed(() => this.data().sections);
   protected readonly year = new Date().getFullYear();
 }
+
 
 
