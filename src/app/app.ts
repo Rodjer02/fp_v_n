@@ -320,7 +320,7 @@ const PORTFOLIO_CONTENT: Record<'ru' | 'en', PortfolioContent> = {
     contact: {
       title: 'Contact',
       text: 'Open to product-focused opportunities and strong engineering teams.',
-      email: 'youremail@example.com',
+      email: 'azamatkoyanbaev02@gmail.com',
       cvLabel: 'Download CV (PDF)'
     }
   }
