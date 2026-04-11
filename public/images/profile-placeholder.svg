@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1400" viewBox="0 0 1200 1400" fill="none">
+  <rect width="1200" height="1400" fill="#FFE1D6"/>
+  <rect x="54" y="54" width="1092" height="1292" fill="#FFF6EE" stroke="#121212" stroke-width="12"/>
+  <circle cx="600" cy="490" r="230" fill="#FF5C35" stroke="#121212" stroke-width="12"/>
+  <rect x="320" y="770" width="560" height="380" fill="#121212"/>
+  <path d="M360 820H840" stroke="#FF5C35" stroke-width="10"/>
+  <path d="M360 900H840" stroke="#FF5C35" stroke-width="10"/>
+  <path d="M360 980H760" stroke="#FF5C35" stroke-width="10"/>
+  <text x="600" y="1230" text-anchor="middle" font-size="52" font-family="Arial, sans-serif" fill="#121212">DROP YOUR PHOTO HERE</text>
+</svg>
